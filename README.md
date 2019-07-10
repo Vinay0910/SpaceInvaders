@@ -11,8 +11,8 @@
         <img src="https://img.shields.io/badge/language-python-blue.svg"
              alt="language_python">
     </a>
-    <a href="https://github.com/angelortizv/SpaceInvaders/LICENSE">
-        <img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg"
+    <a href="https://github.com/angelortizv/SpaceInvaders/blob/master/LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-blue.svg"
              alt="project_license">
     </a>
 </p>
@@ -23,9 +23,24 @@ The game Space Invaders became an immediate hit when it was released in 1978. In
 
 ## Installation
 
-## How to Play?
+- If you don't have [Python](https://www.python.org/downloads/) or [Pygame](http://www.pygame.org/download.shtml) installed, you can simply double click the .exe file to play the game.
+  **Note:** _The .exe file needs to stay in the same directory as the sounds, images, and font folders._
+
+- If you have the correct version of Python and Pygame installed, you can run the program in the command prompt / terminal.
+
+```bash
+cd SpaceInvaders
+python spaceinvaders.py
+```
+
+**Note:** If you're using Python 3, replace the command "python" with "python3"
+
+**MacOS Mojave**: You need to use Python 3.7.2 or greater: [Source](https://github.com/pygame/pygame/issues/555)
+
+## How To Play
 
 ## Credits
+* **Original Idea**: This repository is a fork from [Space_Invaders](https://github.com/leerob/Space_Invaders) of  [leerob](https://github.com/leerob) .
 
 ## License
-Usage is provided under the [](). See LICENSE for the full details.
+Usage is provided under the [MIT License](https://github.com/angelortizv/SpaceInvaders/blob/master/LICENSE). See LICENSE for the full details.
