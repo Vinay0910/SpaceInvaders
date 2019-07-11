@@ -1,17 +1,12 @@
-#!/usr/bin/env python
-
-# Space Invaders
-# Created by Lee Robinson
-
 from pygame import *
 import sys
 from os.path import abspath, dirname
 from random import choice
 
 BASE_PATH = abspath(dirname(__file__))
-FONT_PATH = BASE_PATH + '/fonts/'
-IMAGE_PATH = BASE_PATH + '/images/'
-SOUND_PATH = BASE_PATH + '/sounds/'
+FONT_PATH = BASE_PATH + '/res/font/'
+IMAGE_PATH = BASE_PATH + '/res/img/'
+SOUND_PATH = BASE_PATH + '/res/audio/'
 
 # Colors (R, G, B)
 WHITE = (255, 255, 255)
