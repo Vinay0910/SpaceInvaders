@@ -21,6 +21,11 @@ Space Invaders is a Japanese shooting video game released in 1978 by Taito. It w
 
 The game Space Invaders became an immediate hit when it was released in 1978. In the original planning for the game, they had planned to have the aliens be human soldiers. Taito figured that they did not want to send the message that shooting humans was ok, so they changed it to aliens.
 
+ Welcome Window             | Game Window  |
+ :-------------------------:|:-------------------------:|
+ ![](https://res.cloudinary.com/dek4evg4t/image/upload/v1562822588/Screenshot_from_2019-07-10_23.19.22.png)      | ![](https://res.cloudinary.com/dek4evg4t/image/upload/v1562822589/Screenshot_from_2019-07-10_23.20.28.png)     |
+ 
+
 ## Installation
 
 - If you don't have [Python](https://www.python.org/downloads/) or [Pygame](http://www.pygame.org/download.shtml) installed, you can simply double click the .exe file to play the game.
@@ -38,6 +43,7 @@ python spaceinvaders.py
 **MacOS Mojave**: You need to use Python 3.7.2 or greater: [Source](https://github.com/pygame/pygame/issues/555)
 
 ## How To Play
+This SpaceInvaders clone can be control using the arrows <kbd>&leftarrow;</kbd> / <kbd>&rightarrow;</kbd>, and can shoot with <kbd>space</kbd>
 
 ## Credits
 * **Original Idea**: This repository is a fork from [Space_Invaders](https://github.com/leerob/Space_Invaders) of  [leerob](https://github.com/leerob) .
